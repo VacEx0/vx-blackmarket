@@ -1,5 +1,6 @@
 # vx-blackmarket
 Simple Black Market script for QBCore servers.
+*NOTE: This is a small project, and I am not actively working on it. There may be issues with the resource I am unaware of.*
 
 ## Dependencies
 * qb-core
